@@ -1,15 +1,15 @@
 <h1 align="center">👋 Hello there! I'm Sergio Prieto</h1>
-<h3 align="center">A student in their final semester of Software Engineering at Arizona State University</h3>
+<h3 align="center">A student in their final semester at Arizona State University for a B.S. in Software Engineering.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sergprieto&label=Profile%20views&color=0e75b6&style=flat" alt="sergprieto" /> </p>
 
 - 🌱 I’m currently learning **Typescript and React**
 
-- 📫 How to reach me **sergprieto94@gmail.com**
+- 📫 How to reach me **Sergprieto94@gmail.com**
 
-- 📄 Know about my experiences [my resume](my resume)
+- 📄 Know about my experiences [**my resume**](SergioPrieto_resume.pdf)
 
-- ⚡ Fun fact **I tasted the Starbucks Unicorn frappuccino.**
+- ⚡ Fun fact ***I tasted Starbucks' Unicorn Frappuccino.***
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
