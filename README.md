@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **Sergprieto94@gmail.com**
 
-- 📄 Know about my experiences [**my resume**](Sergio Prieto.pdf)
+- 📄 Know about my experiences [**my resume**](Sergio_Prieto.pdf)
 
 - ⚡ Fun fact ***I tasted Starbucks' Unicorn Frappuccino.***
 
