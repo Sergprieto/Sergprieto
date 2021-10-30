@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sergprieto&label=Profile%20views&color=0e75b6&style=flat" alt="sergprieto" /> </p>
 
-- 🌱 I’m currently learning **Typescript and React**
+- 🌱 I’m currently learning **Typescript and React** with [Spotify-Portal](https://github.com/Sergprieto/spotify-portal).
 
 - 📫 How to reach me **Sergprieto94@gmail.com**
 
